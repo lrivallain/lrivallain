@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - My resume: https://ludovic.rivallain.fr
 - Blog: https://vuptime.io/
 
-[![Twitter: lrivallain](https://img.shields.io/twitter/follow/lrivallain?style=flat-square)](https://twitter.com/lrivallain)
+[![Twitter: lrivallain](https://img.shields.io/twitter/follow/lrivallain?label=lrivallain)](https://twitter.com/lrivallain)
